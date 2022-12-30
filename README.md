@@ -6,7 +6,7 @@ Mobile Developer
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [benghanem1999@gmail.com](mailto:benghanem1999@gmail.com)
-* 🧠  I'm learning Swift
+* 🧠  I'm learning Android
 
 ### Skills
 
